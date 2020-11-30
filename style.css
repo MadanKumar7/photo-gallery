@@ -1,0 +1,38 @@
+img{
+    width: 30%;
+    padding: calc(10% / 6);
+    box-sizing: border-box;
+    
+}
+
+nav {
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 1.2em;
+    width: 30%;
+    margin-left: 6.666666%;
+    /* padding-top: 1.2em; */
+}
+
+.twoborder {
+    border-bottom: 2px solid #f1f1f1;
+    border-right: 2px solid #f1f1f1;
+    
+}
+
+.oneborder{
+    border-bottom: 2px solid #f1f1f1;
+}
+
+.leftmargin{
+    margin-left: 5%;
+}
+
+.rightmargin {
+    margin-right: 5%;
+}
+
+.rightborder {
+    border-right: 2px solid #f1f1f1;
+}
